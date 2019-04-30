@@ -1,5 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [Guide](README.md)
+* [API](untitled.md)
+* [FAQ](untitled-1.md)
+* [Changelog](changelog.md)
 

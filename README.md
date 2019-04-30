@@ -1,4 +1,8 @@
-# Initial page
+---
+description: Guide
+---
+
+# Guide
 
 ## Getting Super Powers
 
