@@ -3,6 +3,8 @@ description: Guide
 ---
 
 # Guide
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Freedhhw%2Fproject1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Freedhhw%2Fproject1?ref=badge_shield)
+
 
 ## Getting Super Powers
 
@@ -25,3 +27,7 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Freedhhw%2Fproject1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Freedhhw%2Fproject1?ref=badge_large)
